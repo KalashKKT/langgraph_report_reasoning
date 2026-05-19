@@ -57,7 +57,7 @@ Each step is a **LangGraph node** sharing one `GraphState` (query, pages, extrac
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/langgraph-grounded-doc-qa.git
+git clone https://github.com/KalashKKT/langgraph-grounded-doc-qa.git
 cd langgraph-grounded-doc-qa/data_agents/langgraph_agent
 
 python -m venv .venv
@@ -148,10 +148,6 @@ Detect and crop tables from PDF pages (`reports/table_detection.py`). Set `PDF_P
 - PDF/table/stock utilities are not fully wired into the LangGraph pipeline
 - Sufficiency and validation rely on LLM judgment
 
-## License
 
-MIT (or your choice — update this line)
 
-## Author
-
-Your Name — [LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yoursite.com)
+Your Name — [LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yoursite.com
