@@ -148,6 +148,3 @@ Detect and crop tables from PDF pages (`reports/table_detection.py`). Set `PDF_P
 - PDF/table/stock utilities are not fully wired into the LangGraph pipeline
 - Sufficiency and validation rely on LLM judgment
 
-
-
-Your Name — [LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yoursite.com
